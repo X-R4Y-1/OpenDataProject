@@ -1,0 +1,114 @@
+OBJECTID,FEATURETYPE,DESCRIPTION,CLASS,FID,NAME,STRUCTURETYPE,AIRPORTCODE,ADDRESS,SUBURB,STATE,SPATIALCONFIDENCE,REVISED,COMMENT,LATITUDE,LONGITUDE
+1,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,1,Winton,,WIN,,Corfield,Queensland,5,20120919,,-22.363335,143.084489
+2,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,2,Roma,,RMA,,Roma,Queensland,5,20120919,,-26.5437960469999,148.779026932
+3,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,3,Albury,,ABX,,East Albury,New South Wales,5,20120919,,-36.069329,146.954549
+4,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,4,Wagga Wagga,,WGA,,Forest Hill,New South Wales,5,20120919,,-35.1591349999999,147.461988
+5,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,5,Brisbane-Archerfield,,YBAF,,Archerfield,Queensland,5,20120919,,-27.571604,153.012057
+6,Terminal,A building located at an airport that serves air travellers and/or air freight,International,6,Brisbane,,BNE,,Brisbane Airport,Queensland,5,20120919,,-27.4034139999999,153.109707
+7,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,7,Brisbane,,BNE,,Brisbane Airport,Queensland,5,20120919,,-27.385258,153.120317
+8,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,8,Charleville,,CTL,,Charleville,Queensland,5,20120919,,-26.413261,146.258833
+9,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,9,Mackay,,MKY,,South Mackay,Queensland,5,20120919,,-21.1761779999999,149.181837
+10,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,10,Avalon,,AVV,,Avalon,Victoria,5,20120919,,-38.026645,144.473235
+11,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,11,Bairnsdale,,BSJ,,Bairnsdale,Victoria,5,20120919,,-37.8821149999999,147.567056
+12,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,12,Bendigo,,BXG,,East Bendigo,Victoria,2,20120919,,-36.736971,144.326261
+13,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,13,Melbourne-Essendon,,MEB,,Essendon Fields,Victoria,5,20120919,,-37.727408,144.897341
+14,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,14,Horsham,,HSM,,Dooen,Victoria,5,20120919,,-36.670515258,142.170554947
+15,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,15,Latrobe Valley,,LTB,,Morwell,Victoria,5,20120919,,-38.21064,146.475112
+16,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,16,Melbourne - Terminals 1 2 and 3,,MEL,,Melbourne Airport,Victoria,5,20120919,,-37.668765,144.851131
+17,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,17,Melbourne - Terminal 4,,MEL,,Melbourne Airport,Victoria,5,20120919,,-37.672314,144.848653
+18,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,18,Melbourne-Moorabbin,,MBW,,Moorabbin Airport,Victoria,5,20120919,,-37.976188,145.095218
+19,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,19,Jandakot,,JAD,,Jandakot,Western Australia,3,20120919,,-32.097969,115.873341
+20,Terminal,A building located at an airport that serves air travellers and/or air freight,International,20,Perth - Terminal 1,,PER,,Perth Airport,Western Australia,5,20120919,,-31.940801,115.974126
+21,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,21,Perth - Terminals 2 and 3,,PER,,Perth Airport,Western Australia,5,20120919,,-31.9335169999999,115.96079
+22,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,22,Port Hedland,,PHE,,Port Hedland,Western Australia,3,20120919,,-20.3781339999999,118.631651
+23,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,23,Newman,,ZNE,,Newman,Western Australia,5,20120919,,-23.416512,119.801737
+24,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,24,Kununurra,,KNX,,Kununurra,Western Australia,5,20120919,,-15.783824,128.71272
+25,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,25,Karratha,,KTA,,Gap Ridge,Western Australia,5,20120919,,-20.708567,116.770071
+26,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,26,Kalgoorlie-Boulder,,KGI,,Broadwood,Western Australia,5,20120919,,-30.78547,121.45802
+27,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,27,Geraldton,,GET,,Moonyoonooka,Western Australia,5,20120919,,-28.7960429999999,114.702432
+28,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,28,Derby,,DRB,,Derby,Western Australia,3,20120919,,-17.36979,123.662761
+29,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,29,Busselton,,BQB,,Yalyalup,Western Australia,5,20120919,,-33.685898,115.398937
+30,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,30,Broome International,,BME,,Djugun,Western Australia,4,20120919,,-17.952596,122.23393
+31,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,31,Albany,,ALH,,Drome,Western Australia,5,20120919,,-34.944963,117.803521
+32,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,32,Mildura,,MQL,,Mildura,Victoria,5,20120919,,-34.230654,142.084637
+33,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,33,Whyalla,,WYA,,Iron Baron,South Australia,5,20120919,,-33.052365,137.521832
+34,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,34,Port Lincoln,,PLO,,North Shields,South Australia,5,20120919,,-34.603336,135.874556
+35,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,35,Ceduna,,CED,,Ceduna,South Australia,5,20120919,,-32.1239449999999,133.701765
+36,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,36,Adelaide,,ADL,,Adelaide Airport,South Australia,5,20120919,,-34.938622,138.537544
+37,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,37,Sunshine Coast,,MCY,,Marcoola,Queensland,5,20120919,,-26.605268,153.088812
+38,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,38,Mudgee,,DGE,,Bombira,New South Wales,5,20120919,,-32.563749,149.615614
+39,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,39,Moruya,,MYA,,Moruya,New South Wales,5,20120919,,-35.902526,150.147014
+40,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,40,Moree,,MRZ,,Moree,New South Wales,5,20120919,,-29.496367,149.850005
+41,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,41,Lightning Ridge,,LHG,,Lightning Ridge,New South Wales,5,20120919,,-29.452243202,147.981208195
+42,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,42,Coffs Harbour,,CFS,,Coffs Harbour,New South Wales,5,20120919,,-30.322966,153.115683
+43,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,43,Bourke,,BRK,,North Bourke,New South Wales,5,20120919,,-30.041235,145.95102
+44,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,44,Bathurst,,BHS,,Raglan,New South Wales,5,20120919,,-33.413787,149.655038
+45,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,45,Armidale,,ARM,,Armidale,New South Wales,5,20120919,,-30.53216,151.614987
+46,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,46,Bundaberg,,BDB,,Kensington,Queensland,4,20120919,,-24.8988209999999,152.321293
+47,Terminal,A building located at an airport that serves air travellers and/or air freight,International,47,Cairns International,,CNS,,Aeroglen,Queensland,5,20120919,,-16.873014,145.755674
+48,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,48,Cairns,,CNS,,Aeroglen,Queensland,5,20120919,,-16.876653,145.753491
+49,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,49,Gold Coast,,OOL,,Bilinga,Queensland,5,20120919,,-28.166038,153.512467
+50,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,50,Gladstone,,GLT,,Clinton,Queensland,5,20120919,,-23.8713969999999,151.223797
+51,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,51,Hervey Bay,,HVB,,Urangan,Queensland,5,20120919,,-25.320059,152.885275
+52,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,52,Proserpine,,PPP,,Gunyarra,Queensland,5,20120919,,-20.48919,148.551861
+53,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,53,Rockhampton,,ROK,,West Rockhampton,Queensland,5,20120919,,-23.378049,150.478213
+54,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,54,Townsville,,TSV,,Garbutt,Queensland,5,20120919,,-19.256245,146.770627
+55,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,55,Mount Hotham,,MHU,,Cobungra,Victoria,5,20120919,,-37.051722,147.338387
+56,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,56,Mount Gambier,,MGB,,Wandilo,South Australia,5,20120919,,-37.744301,140.7828
+57,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,57,Darwin International,,DRW,,Eaton,Northern Territory,5,20120919,,-12.408088,130.877402
+58,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,58,Griffith,,GFF,,Griffith,New South Wales,5,20120919,,-34.2552699999999,146.06246
+59,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,59,Dubbo,,DBO,,Dubbo,New South Wales,5,20120919,,-32.2187329999999,148.569971
+60,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,60,Canberra,,CNB,,Canberra Airport,Australian Capital Territory,5,20120919,,-35.3074819999999,149.191085
+61,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,61,Ballina,,BNK,,Ballina,New South Wales,5,20120919,,-28.837454,153.556273
+62,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,62,Sydney Metro Bankstown,,BWU,,Bankstown Aerodrome,New South Wales,3,20120919,,-33.9196719999999,150.99104
+63,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,63,Cooma-Snowy Mountains,,OOM,,Coolringdon,New South Wales,5,20120919,,-36.292907,148.970827
+64,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,64,Grafton,,GFN,,Glenugie,New South Wales,5,20120919,,-29.7595669999999,153.028602
+65,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,65,Lismore,,LSY,,Loftville,New South Wales,5,20120919,,-28.836587,153.263247
+66,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,66,Merimbula,,MIM,,Merimbula,New South Wales,3,20120919,,-36.9096259999999,149.902139
+67,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,67,Port Macquarie,,PQQ,,Port Macquarie,New South Wales,5,20120919,,-31.4313089999999,152.867267
+68,Terminal,A building located at an airport that serves air travellers and/or air freight,International,68,Sydney (Kingsford Smith) - Terminal 1,,SYD,,Mascot,New South Wales,5,20120919,,-33.9364879999999,151.165824
+69,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,69,Sydney (Kingsford Smith) - Terminal 2,,SYD,,Mascot,New South Wales,5,20120919,,-33.934156,151.179342
+70,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,70,Sydney (Kingsford Smith) - Terminal 3,,SYD,,Mascot,New South Wales,5,20120919,,-33.932287,151.178977
+71,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,71,Tamworth,,TMW,,Westdale,New South Wales,5,20120919,,-31.0842989999999,150.848465
+72,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,72,Taree,,TRO,,Cundletown,New South Wales,5,20120919,,-31.8903994409999,152.509303315
+73,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,73,Williamtown,,NTL,,Williamtown,New South Wales,5,20120919,,-32.804009,151.83996
+74,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,74,Esperance,,EPR,,Gibson,Western Australia,5,20120919,,-33.682722,121.830437
+75,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,75,Narrabri,,NAA,,Narrabri,New South Wales,5,20120919,,-30.318748,149.82877
+76,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,76,Ravensthorpe,,RVT,,Hopetoun,Western Australia,5,20120919,,-33.792853,120.212397
+77,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,77,Paraburdoo,,PBO,,Paraburdoo,Western Australia,5,20120919,,-23.1737019999999,117.747908
+78,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,78,Learmonth,,LEA,,Learmonth,Western Australia,5,20120919,,-22.23973,114.094002
+79,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,79,Port Augusta,,PUG,,Port Augusta West,South Australia,2,20120919,,-32.5085116769999,137.718740646
+80,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,80,Kingscote,,KGC,,Cygnet River,South Australia,5,20120919,,-35.7094529999999,137.523358
+81,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,81,Cobar,,CAZ,,Cobar,New South Wales,4,20120919,,-31.537547,145.79756
+82,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,82,Balranald,,BZD,,Balranald,New South Wales,5,20120919,,-34.6241209999999,143.575685
+83,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,83,Portland,,PTJ,,Cashmore,Victoria,3,20120919,,-38.316525,141.47055
+84,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,84,Shepparton,,SHT,,Kialla,Victoria,5,20120919,,-36.426663,145.390559
+85,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,85,Warrnambool,,WMB,,Yarpturk,Victoria,5,20120919,,-38.2994945039999,142.44950079
+86,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,86,Hobart - Terminal 2,,HBA,,Cambridge,Tasmania,5,20120919,,-42.836939,147.505531
+87,Terminal,A building located at an airport that serves air travellers and/or air freight,International,87,Hobart - Terminal 1,,HBA,,Cambridge,Tasmania,5,20120919,,-42.8366159999999,147.504721
+88,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,88,Launceston,,LST,,Western Junction,Tasmania,5,20120919,,-41.543393,147.205617
+89,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,89,Devonport,,DPO,,Wesley Vale,Tasmania,5,20120919,,-41.1718539999999,146.427648
+90,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,90,Tennant Creek,,TCA,,Tennant Creek,Northern Territory,5,20120919,,-19.6410569999999,134.184619
+91,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,91,Alice Springs,,ASP,,Connellan,Northern Territory,5,20120919,,-23.801906,133.903062
+92,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,92,Ayers Rock,,AYQ,,Yulara,Northern Territory,5,20120919,,-25.190777,130.976729
+93,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,93,Thangool,,THG,,Thangool,Queensland,5,20120919,,-24.4916689999999,150.573568
+94,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,94,Broken Hill,,BHQ,,Broken Hill,New South Wales,5,20120919,,-31.998859,141.470277
+95,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,95,King Island,,KNS,,Loorana,Tasmania,5,20120919,,-39.8796359999999,143.881891
+96,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,96,Burnie,,BWT,,Wynyard,Tasmania,5,20120919,,-40.993506,145.725642
+97,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,97,Horn Island,,HID,,Horn,Queensland,3,20120919,,-10.591012,142.294546
+98,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,98,Gove,,GOV,,East Arnhem,Northern Territory,5,20120919,,-12.269843,136.822422
+99,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,99,Barcaldine,,BCI,,Barcaldine,Queensland,5,20120919,,-23.5612829999999,145.300646
+100,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,100,Blackall ,,BKQ,,Blackall,Queensland,5,20120919,,-24.42842,145.433801
+101,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,101,Emerald,,EMD,,Emerald,Queensland,5,20120919,,-23.5688549999999,148.174571
+102,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,102,Hamilton Island,,HTI,,Whitsundays,Queensland,5,20120919,,-20.3518,148.948958
+103,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,103,Hughenden,,HGD,,Hughenden,Queensland,5,20120919,,-20.81663,144.227153
+104,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,104,Longreach,,LRE,,Longreach,Queensland,5,20120919,,-23.4392799999999,144.271581
+105,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,105,Coober Pedy,,CPD,,Coober Pedy,South Australia,5,20120919,,-29.035377,134.72313
+106,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,106,Weipa,,WEI,,Weipa Airport,Queensland,4,20120919,,-12.6806999999999,141.924093
+107,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,107,Richmond,,RCM,,Richmond,Queensland,5,20120919,,-20.7000899999999,143.117352
+108,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,108,Mount Isa,,ISA,,Kalkadoon,Queensland,5,20120919,,-20.667787,139.491456
+109,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,109,Julia Creek,,JCK,,Julia Creek,Queensland,3,20120919,,-20.6672879999999,141.72253
+110,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,110,Cocos (Keeling) Island,,CCK,,Cocos (Keeling) Island,Western Australia,4,20120919,,-12.187989,96.8291990000001
+111,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,111,Christmas Island,,XCH,,Christmas Island,Western Australia,5,20120919,,-10.4510339999999,105.688702
+112,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic and International,112,Norfolk Island,,NLK,,Norfolk Island,New South Wales,5,20120919,,-29.035207,167.943487
+113,Terminal,A building located at an airport that serves air travellers and/or air freight,Domestic,113,Lord Howe Island,,LDH,,Lord Howe Island,New South Wales,5,20120919,,-31.540669,159.078161
